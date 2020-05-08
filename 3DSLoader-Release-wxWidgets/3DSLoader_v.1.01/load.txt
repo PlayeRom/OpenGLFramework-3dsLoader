@@ -1,0 +1,4 @@
+; komentarz
+3ds = 3dsobjects/space_ship.3ds
+texture = textures/space_ship.bmp
+bump = textures/space_ship_bump.bmp

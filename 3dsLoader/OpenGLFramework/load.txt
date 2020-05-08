@@ -1,0 +1,4 @@
+; komentarz
+3ds = 3dsobjects/12k.3ds
+texture = textures/boss01.bmp
+bump = textures/boss01bump.bmp

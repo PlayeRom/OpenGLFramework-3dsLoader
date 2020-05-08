@@ -1,0 +1,17 @@
+icon ICON "icon.ico"
+#include "wx/msw/wx.rc"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+
+//IDI_OPENGLFRAMEWORK       ICON         "OpenGLFramework.ico"
+//IDI_SMALL               ICON         "small.ico"
+
+IDC_CURSOR1             CURSOR  DISCARDABLE     "cursor1.cur"
+IDC_CURSOR2             CURSOR  DISCARDABLE     "cursor2.cur"
+IDC_CURSOR3             CURSOR  DISCARDABLE     "cursor3.cur"

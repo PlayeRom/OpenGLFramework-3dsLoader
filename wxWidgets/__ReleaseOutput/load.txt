@@ -1,0 +1,4 @@
+; komentarz
+3ds = 3dsobjects/player05.3ds
+texture = textures/player05.bmp
+bump = textures/player05bump.bmp

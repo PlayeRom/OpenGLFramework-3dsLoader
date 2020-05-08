@@ -1,0 +1,6 @@
+;
+; Tutaj nale¿y zdefiniowaæ pliki jakie zostan¹ wczytane do 3DSLoader'a
+;
+3ds = 3dsobjects/player01.3DS
+texture = textures/player01.bmp
+bump = textures/player01bump.bmp
